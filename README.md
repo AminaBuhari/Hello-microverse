@@ -1,10 +1,6 @@
-# Hello-microverse
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello-Microverse
-
-> Description the project.
 
     This project is a Html and Css Project
 
